@@ -94,7 +94,6 @@
   descpritor info的内容和dscr.a51的内容对应。
 
 ```
-  ;;-----------------------------------------------------------------------------
 ;;   File:      dscr.a51
 ;;   Contents:  This file contains descriptor data tables.
 ;;
@@ -103,9 +102,6 @@
 ;; $Revision: 3 $
 ;;
 ;;
-;;-----------------------------------------------------------------------------
-;; Copyright 2003, Cypress Semiconductor Corporation
-;;-----------------------------------------------------------------------------;;-----------------------------------------------------------------------------
    
 DSCR_DEVICE   equ   1   ;; Descriptor type: Device
 DSCR_CONFIG   equ   2   ;; Descriptor type: Configuration
