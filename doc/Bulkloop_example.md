@@ -85,7 +85,7 @@
 			</ENDPOINT>
 		</INTERFACE>
 	</CONFIGURATION>
-</DEVICE>
+  </DEVICE>
 
   ```
 
