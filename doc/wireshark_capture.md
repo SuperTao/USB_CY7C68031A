@@ -4,12 +4,12 @@
 
 # bulk out 
 
-![bulk out](wireshark.png)
+![bulk out](../pic/wireshark.png)
 
-![blud_out_wireshark](wireshark1.png)
+![blud_out_wireshark](../pic/wireshark1.png)
 
 # bluk in
 
-![bulk in](wireshark2.png)
+![bulk in](../pic/wireshark2.png)
 
-![blud_in_wireshark](wireshark3.png)
+![blud_in_wireshark](../pic/wireshark3.png)
