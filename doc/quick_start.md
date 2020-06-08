@@ -19,4 +19,4 @@
 
 插上开发板，发现设备识别不了，需要手动安装驱动。
 
-![driver_install_pic](../pic/quick_start.png)
+![driver_install_pic](../pic/quick_start.PNG)
