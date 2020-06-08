@@ -4,6 +4,10 @@
 
 这次分析一下cypress的CY7C68013A芯片，学习USB协议。
 
+# USB官方网址
+
+* https://www.usb.org/
+
 # 开发板链接
 
 * [EZ-USB FX2LP CY7C68013A USB 开发板 逻辑分析仪](https://item.taobao.com/item.htm?spm=a230r.1.14.34.36aa2429c1z3Fr&id=522553287560&ns=1&abbucket=6#detail)
